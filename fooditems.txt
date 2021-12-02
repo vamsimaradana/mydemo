@@ -3,3 +3,5 @@ puri
 
 
 idli
+vada
+upma
